@@ -1,5 +1,8 @@
 ## Example tutorial project for c++, libs, classes and tests with Bazel
 
+#### Install Bazel first:
+https://bazel.build/start
+
 #### Commands:
 
 Build selected package/executable:
