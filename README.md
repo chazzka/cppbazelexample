@@ -19,3 +19,6 @@ Run tests (http://google.github.io/googletest/quickstart-bazel.html):
 ```bash
 bazel test --cxxopt=-std=c++14 --test_output=all ... # do not forget the dots
 ```
+
+
+source: https://bazel.build/start/cpp
